@@ -1,6 +1,6 @@
 # MAGIC Gamma Telescope — ML Classification
 
-Built following Kylie Ying's tutorial: Machine Learning for Everybody
+Built following Kylie Ying's tutorial: [Machine Learning for Everybody](https://www.youtube.com/watch?v=i_LwzRVP7bg)
 
 Binary classification on the [MAGIC Gamma Telescope dataset](https://archive.ics.uci.edu/dataset/159/magic+gamma+telescope) from UCI. The goal is to distinguish gamma ray signals from hadronic background noise using several supervised learning approaches, ending with a tuned neural network.
 
